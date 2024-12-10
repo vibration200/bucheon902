@@ -1,0 +1,56 @@
+1.(중요)파이참 설치
+
+2.케글 들어가면 예시 데이타 다운가능
+https://www.kaggle.com/
+로그인
+메뉴 : competitions
+아래 주제
+Titanic - Machine Learning from Disaster
+
+해당 cvs 파일
+
+hello python 으로 드래그 하면
+
+파이참에서 엑셀 형식으로 보는거 가능
+
+엑셀을 로딩하기 위해 
+
+(중요)판다스 설치하는법은 파이참에서 터미널에서
+
+아래 명령어 친다
+
+명령어 : pip install pandas
+
+
+
+-----
+아나콘다 설치 
+경로
+https://www.anaconda.com/download/
+
+후에
+anaconda command 창에서
+C:\Users\KITRI>md python_study
+C:\Users\KITRI>cd python_study
+jupitar lab
+C:\Users\KITRI\python_study>jupyter lab
+
+
+2.(중요)requests 라이브러리 설치
+
+파이참에서 터미널에서
+
+아래 명령어 친다
+
+명령어 : pip install requests
+
+3. for
+
+for item in res.json()['items']
+print(item)
+print("=====================")
+
+4. 파일 저정 라이브러리
+openpyxl
+
+5. 리팩토링 - chatGpT
