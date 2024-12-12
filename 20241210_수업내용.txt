@@ -1,3 +1,5 @@
+https://github.com/vibration200/bucheon902
+
 1.(중요)파이참 설치
 
 파이썬 설정 및 실행
