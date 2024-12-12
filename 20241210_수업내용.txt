@@ -1,5 +1,9 @@
 1.(중요)파이참 설치
 
+파이썬 설정 및 실행
+
+https://soongon.notion.site/ChatGPT-888dd13ca78242319ca584d281d2e27e
+
 2.케글 들어가면 예시 데이타 다운가능
 https://www.kaggle.com/
 로그인
@@ -51,9 +55,15 @@ print(item)
 print("=====================")
 
 4. 파일 저정 라이브러리
-
-5. 리팩토링 - chatGpT
-
 openpyxl
 
 5. 리팩토링 - chatGpT
+
+
+================
+강의자료 올라온곳
+https://bit.ly/4goLZqm
+
+
+
+
